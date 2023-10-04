@@ -42,8 +42,5 @@ Contributions to this project are welcome! Feel free to submit issues, suggest e
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## Contact
-
-If you have any questions or need further assistance, please feel free to contact us at [your-email@example.com].
 
 Happy Sentiment Analysis!
