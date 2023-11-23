@@ -22,6 +22,12 @@ The dataset used in this project was obtained from Kaggle's "IMDb Dataset of 50K
 
 Our trained models achieved competitive accuracy in sentiment classification on the test data. These models can be effectively used for sentiment analysis tasks and provide valuable insights into the sentiment of movie reviews.
 
+![image](https://github.com/Ajairajv/Sentimental_Analysis/assets/87579782/ed463144-c8d0-4b05-b6c9-a28c1633dc62)
+
+
+![image](https://github.com/Ajairajv/Sentimental_Analysis/assets/87579782/24aa250f-520c-43da-9497-7c3380a8772d)
+
+
 ## Repository Contents
 
 - `Sentiment Analysis.ipynb`: Jupyter Notebook containing the project code, including data preprocessing, model training, and evaluation.
